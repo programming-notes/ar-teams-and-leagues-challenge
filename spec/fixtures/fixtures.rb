@@ -14,8 +14,8 @@
 # 2) Create three leagues:
 #    | name      |     day    |  creator    |
 #    ------------------------------------------
-#    | Hockey    |  Wednesday |  Penelope   |
-#    | Soccer    |  Thursday  |  Pepe       |
+#    | Hockey    |  Wednesday |  Pepe       |
+#    | Soccer    |  Thursday  |  Penelope   |
 #    | Tennis    |  Tuesday   |  Priscilla  |
 #
 
@@ -34,7 +34,7 @@
       
 #    Team Name: "Silver Snakes"
 #    League: Soccer
-#    Uniform Color: Green 
+#    Uniform Color: Silver 
 #    Captain: Pete
 #    Membership: Pete
 
@@ -43,8 +43,3 @@
 #    Uniform Color: Green 
 #    Captain: Priscilla
 #    Membership: Priscilla
-
-
-
-
-
