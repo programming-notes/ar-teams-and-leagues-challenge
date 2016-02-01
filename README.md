@@ -34,7 +34,7 @@ You'll need to follow the directions in the fixtures file to drive the organizat
 ## Running the Challenge
 There are four specs in this challenge. 
 
-You'll need to run `RACK_ENV=test rake db:create` then `RACK_ENV=test rake db:migrate` before running your tests.
+You'll need to run `be rake db:test:prepare` before running your tests.
 
 Run them in order:
 
