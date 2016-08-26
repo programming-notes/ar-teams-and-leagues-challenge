@@ -24,7 +24,7 @@
       
 #    Team Name: "Green Monkeys"
 #    League: Hockey
-#    Uniform Color: Green 
+#    Uniform Color: "green" 
 #    Captain: Pepe
 #    Members: Pepe, Priscilla, and Penelope
 
@@ -34,12 +34,12 @@
       
 #    Team Name: "Silver Snakes"
 #    League: Soccer
-#    Uniform Color: Silver 
+#    Uniform Color: "silver" 
 #    Captain: Pete
-#    Membership: Pete
+#    Members: Pete
 
 #    Team Name: "Purple Parrots"
 #    League: Soccer
-#    Uniform Color: Green 
+#    Uniform Color: "purple" 
 #    Captain: Priscilla
-#    Membership: Priscilla
+#    Members: Priscilla
