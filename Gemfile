@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'pg'
 
 # Sinatra driver
-gem 'sinatra'
+gem 'sinatra', '~> 1.0'
 gem 'sinatra-contrib'
 
 gem 'activesupport', '~>4.2'
